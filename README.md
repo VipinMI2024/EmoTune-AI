@@ -1,6 +1,3 @@
-Here's your updated `README.md` file for **EmoTune AI**, including a credit line: **"Powered by Vipin"**.
-
----
 
 # 🎵 EmoTune AI - Emotionally Expressive Music Generator
 
