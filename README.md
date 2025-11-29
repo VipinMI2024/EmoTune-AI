@@ -1,5 +1,5 @@
 
-# 🎵 EmoTune AI - Emotionally Expressive Music Generator
+# EmoTune AI - Emotionally Expressive Music Generator
 
 **Powered by Vipin**
 
